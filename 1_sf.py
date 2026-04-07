@@ -29,3 +29,6 @@ def solve_eq (y):
             print("Marion")
         else :
             return x_max
+
+def bite(n):
+    return None
